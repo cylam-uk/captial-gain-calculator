@@ -20,5 +20,8 @@
   "homepage": "https://github.com/lamstar-co-uk/tax-calculator#readme",
   "imports": {
     "#~/*": "./*"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
