@@ -104,6 +104,7 @@ dist
 .tern-port
 
 secret/**/*
+library/**/*
 code-backup/**/*
 
 *.csv

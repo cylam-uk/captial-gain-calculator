@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lamstar-co-uk/tax-calculator/issues"
   },
-  "homepage": "https://github.com/lamstar-co-uk/tax-calculator#readme"
+  "homepage": "https://github.com/lamstar-co-uk/tax-calculator#readme",
+  "imports": {
+    "#~/*": "./*"
+  }
 }
